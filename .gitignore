@@ -1,3 +1,4 @@
+# dotenv environment variables file
 .env
 
 # Logs
@@ -56,6 +57,5 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
+
 
